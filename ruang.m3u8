@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=494100,RESOLUTION=320x180,NAME="180p"
+https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w1970746921_b494100_dakocan_sleng_06012020.m3u8?enc=3Ij_eZMUVilW_dOm_RSHqg&exp=1589635804
+#EXT-X-STREAM-INF:BANDWIDTH=684100,RESOLUTION=640x360,NAME="360p"
+https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w1970746921_b684100_dakocan_sleng_06012020.m3u8?enc=3Ij_eZMUVilW_dOm_RSHqg&exp=1589635804
+#EXT-X-STREAM-INF:BANDWIDTH=894100,RESOLUTION=960x540,NAME="540p"
+https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w1970746921_b894100_dakocan_sleng_06012020.m3u8?enc=3Ij_eZMUVilW_dOm_RSHqg&exp=1589635804
+#EXT-X-STREAM-INF:BANDWIDTH=1344100,RESOLUTION=1280x720,NAME="720p"
+https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w1970746921_b1344100_dakocan_sleng_06012020.m3u8?enc=3Ij_eZMUVilW_dOm_RSHqg&exp=1589635804
